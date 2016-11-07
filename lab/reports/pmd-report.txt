@@ -1,0 +1,149 @@
+src/lab1/lab.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lab1/lab.java:5:	Avoid short class names like lab
+src/lab1/lab.java:5:	Class names should begin with an uppercase character
+src/lab1/lab.java:5:	headerCommentRequirement Required
+src/lab1/lab.java:6:	fieldCommentRequirement Required
+src/lab1/lab.java:7:	fieldCommentRequirement Required
+src/lab1/lab.java:8:	fieldCommentRequirement Required
+src/lab1/lab.java:9:	fieldCommentRequirement Required
+src/lab1/lab.java:11:	Parameter 'args' is not assigned and could be declared final
+src/lab1/lab.java:11:	publicMethodCommentRequirement Required
+src/lab1/lab.java:12:	Avoid variables with short names like rp
+src/lab1/lab.java:12:	Found 'DD'-anomaly for variable 'rp' (lines '12'-'16').
+src/lab1/lab.java:13:	Avoid variables with short names like p
+src/lab1/lab.java:13:	Found 'DD'-anomaly for variable 'p' (lines '13'-'17').
+src/lab1/lab.java:14:	Local variable 'time1' could be declared final
+src/lab1/lab.java:15:	System.out.println is used
+src/lab1/lab.java:22:	Local variable 'time2' could be declared final
+src/lab1/lab.java:23:	System.out.println is used
+src/lab1/lab.java:24:	System.out.println is used
+src/lab1/lab.java:28:	publicMethodCommentRequirement Required
+src/lab1/lab.java:29:	Avoid variables with short names like s
+src/lab1/lab.java:29:	Found 'DD'-anomaly for variable 's' (lines '29'-'35').
+src/lab1/lab.java:30:	Found 'DD'-anomaly for variable 'data' (lines '30'-'38').
+src/lab1/lab.java:30:	Found 'DU'-anomaly for variable 'data' (lines '30'-'51').
+src/lab1/lab.java:31:	Avoid variables with short names like rp
+src/lab1/lab.java:31:	Found 'DD'-anomaly for variable 'rp' (lines '31'-'46').
+src/lab1/lab.java:32:	Avoid variables with short names like i
+src/lab1/lab.java:32:	Found 'DU'-anomaly for variable 'i' (lines '32'-'51').
+src/lab1/lab.java:34:	Avoid variables with short names like st
+src/lab1/lab.java:34:	Local variable 'st' could be declared final
+src/lab1/lab.java:35:	Found 'DU'-anomaly for variable 's' (lines '35'-'51').
+src/lab1/lab.java:35:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:36:	Avoid instantiating new objects inside loops
+src/lab1/lab.java:36:	Avoid variables with short names like ss
+src/lab1/lab.java:36:	Local variable 'ss' could be declared final
+src/lab1/lab.java:37:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:38:	Found 'DD'-anomaly for variable 'data' (lines '38'-'38').
+src/lab1/lab.java:38:	Found 'DU'-anomaly for variable 'data' (lines '38'-'51').
+src/lab1/lab.java:38:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:39:	Found 'DU'-anomaly for variable 'i' (lines '39'-'51').
+src/lab1/lab.java:41:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:42:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:43:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:43:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:46:	Found 'DD'-anomaly for variable 'rp' (lines '46'-'47').
+src/lab1/lab.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:47:	Found 'DD'-anomaly for variable 'rp' (lines '47'-'46').
+src/lab1/lab.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:54:	publicMethodCommentRequirement Required
+src/lab1/lab.java:55:	Avoid variables with short names like p
+src/lab1/lab.java:55:	Found 'DD'-anomaly for variable 'p' (lines '55'-'65').
+src/lab1/lab.java:56:	Avoid variables with short names like s
+src/lab1/lab.java:56:	Found 'DD'-anomaly for variable 's' (lines '56'-'61').
+src/lab1/lab.java:57:	Found 'DD'-anomaly for variable 'line' (lines '57'-'69').
+src/lab1/lab.java:57:	Found 'DU'-anomaly for variable 'line' (lines '57'-'74').
+src/lab1/lab.java:58:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:60:	Avoid variables with short names like st
+src/lab1/lab.java:60:	Local variable 'st' could be declared final
+src/lab1/lab.java:61:	Found 'DU'-anomaly for variable 's' (lines '61'-'74').
+src/lab1/lab.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:62:	Avoid instantiating new objects inside loops
+src/lab1/lab.java:62:	Avoid variables with short names like ss
+src/lab1/lab.java:62:	Local variable 'ss' could be declared final
+src/lab1/lab.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:64:	Local variable 'temp' could be declared final
+src/lab1/lab.java:64:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:65:	Found 'DD'-anomaly for variable 'p' (lines '65'-'66').
+src/lab1/lab.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:65:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:66:	Found 'DD'-anomaly for variable 'p' (lines '66'-'65').
+src/lab1/lab.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:67:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:67:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:67:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:67:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:67:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:69:	Found 'DD'-anomaly for variable 'line' (lines '69'-'69').
+src/lab1/lab.java:69:	Found 'DU'-anomaly for variable 'line' (lines '69'-'74').
+src/lab1/lab.java:70:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:71:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:72:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:72:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:77:	publicMethodCommentRequirement Required
+src/lab1/lab.java:78:	Found 'DD'-anomaly for variable 'req' (lines '78'-'84').
+src/lab1/lab.java:79:	Found 'DU'-anomaly for variable 'line' (lines '79'-'92').
+src/lab1/lab.java:80:	Avoid variables with short names like s
+src/lab1/lab.java:80:	Found 'DD'-anomaly for variable 's' (lines '80'-'83').
+src/lab1/lab.java:82:	Avoid variables with short names like st
+src/lab1/lab.java:82:	Local variable 'st' could be declared final
+src/lab1/lab.java:83:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:83:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:84:	Found 'DD'-anomaly for variable 'req' (lines '84'-'85').
+src/lab1/lab.java:84:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:85:	Found 'DD'-anomaly for variable 'req' (lines '85'-'84').
+src/lab1/lab.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:86:	Found 'DU'-anomaly for variable 'line' (lines '86'-'92').
+src/lab1/lab.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:89:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:90:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/lab1/lab.java:95:	publicMethodCommentRequirement Required
+src/lab1/lab.java:96:	Local variable 'file' could be declared final
+src/lab1/lab.java:97:	Avoid variables with short names like fw
+src/lab1/lab.java:97:	Found 'DD'-anomaly for variable 'fw' (lines '97'-'100').
+src/lab1/lab.java:98:	Avoid variables with short names like bw
+src/lab1/lab.java:98:	Found 'DD'-anomaly for variable 'bw' (lines '98'-'101').
+src/lab1/lab.java:106:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:106:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/lab1/lab.java:113:	System.out.println is used
+src/lab1/lab.java:116:	System.out.println is used
+src/lab1/lab.java:117:	Avoid printStackTrace(); use a logger call instead.
+src/lab1/lab.java:122:	Avoid variables with short names like rp
+src/lab1/lab.java:122:	Method names should not start with capital letters
+src/lab1/lab.java:122:	Parameter 'rp' is not assigned and could be declared final
+src/lab1/lab.java:122:	publicMethodCommentRequirement Required
+src/lab1/lab.java:123:	Found 'DD'-anomaly for variable 'temp' (lines '123'-'125').
+src/lab1/lab.java:123:	Found 'DU'-anomaly for variable 'temp' (lines '123'-'133').
+src/lab1/lab.java:125:	Found 'DD'-anomaly for variable 'temp' (lines '125'-'125').
+src/lab1/lab.java:125:	Found 'DU'-anomaly for variable 'temp' (lines '125'-'133').
+src/lab1/lab.java:130:	Found 'DD'-anomaly for variable 'temp' (lines '130'-'125').
+src/lab1/lab.java:130:	Found 'DU'-anomaly for variable 'temp' (lines '130'-'133').
+src/lab1/lab.java:136:	Avoid variables with short names like p
+src/lab1/lab.java:136:	Avoid variables with short names like rp
+src/lab1/lab.java:136:	Method names should not start with capital letters
+src/lab1/lab.java:136:	Parameter 'p' is not assigned and could be declared final
+src/lab1/lab.java:136:	Parameter 'rp' is not assigned and could be declared final
+src/lab1/lab.java:136:	publicMethodCommentRequirement Required

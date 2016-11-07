@@ -1,0 +1,25 @@
+Found a 5 line (34 tokens) duplication in the following files: 
+Starting at line 69 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+Starting at line 86 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+
+				line++; }
+			st.close();}
+		catch(FileNotFoundException ee)  {ee.printStackTrace();}
+		catch(IOException e)  {e.printStackTrace();}
+		return p;
+=====================================================================
+Found a 4 line (31 tokens) duplication in the following files: 
+Starting at line 40 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+Starting at line 69 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+Starting at line 87 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+
+				}
+			st.close();}
+		catch(FileNotFoundException ee)  {ee.printStackTrace();}
+		catch(IOException e)  {e.printStackTrace();}
+=====================================================================
+Found a 1 line (29 tokens) duplication in the following files: 
+Starting at line 128 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+Starting at line 130 of C:\Users\WeiDong\workspace\lab1\src\lab1\lab1.java
+
+		     if(temp<(0.85*(rp[i][j][0]-1)-rp[i][j][1]/100)) {
